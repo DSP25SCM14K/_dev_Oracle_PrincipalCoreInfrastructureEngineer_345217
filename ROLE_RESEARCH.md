@@ -1,6 +1,8 @@
 # Oracle 345217 — AI/ML infrastructure and company research
 
-Research date: October 8, 2026. This analysis accompanies the portfolio and is separate from its public narrative.
+Research initially completed October 8, 2026; Oracle AI Infrastructure, the GPU reference architecture, and NVIDIA NCCL documentation revisited October 10, 2026. This analysis accompanies the portfolio and is separate from its public narrative.
+
+The resume supplied on October 10 from `oracle_devpatna/codex/_dev_Oracle_PrincipalCoreInfrastructureEngineer_345217.docx` contains the same 16 experience bullets already presented on the site. The existing repository and Pages deployment are reused. The exact job page could not be reopened during this refresh, so the job-specific details below retain their October 8 verification date; their continued availability is not confirmed.
 
 ## Exact role verified
 
@@ -60,4 +62,3 @@ All 23 unique supplied projects are included. EXPOS is deduplicated. Only the fo
 - Show a runbook that a customer can execute and an escalation that engineering can act on.
 
 These are suggested discussion themes rather than confirmed interview questions.
-
